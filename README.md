@@ -1,2 +1,2 @@
 # goodnews
-A site for good news
+A site for good news.   
